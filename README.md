@@ -3,9 +3,19 @@
 Watch UI reference Video
 
 <div style="text-align: center;">
-     <video width="500px" height="400px" controls="controls">
-        <source src="https://res.cloudinary.com/adnansayyed2321/video/upload/v1695729787/React_App_-_Google_Chrome_2023-09-26_17-24-02_igpswe.mp4" type="video/mp4" />
-       </video>
+     <iframe 
+    src="https://res.cloudinary.com/adnansayyed2321/video/upload/v1695729787/React_App_-_Google_Chrome_2023-09-26_17-24-02_igpswe.mp4" />
+    width="640"
+    height="360"
+    style={
+        height: 'auto', 
+        width: '100%', 
+        aspect-ratio: '640/360'
+    }
+    allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
+    allowfullscreen
+    frameborder="0"
+/>
 <br/>
 
 ### Set Up Instructions
