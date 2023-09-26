@@ -20,6 +20,5 @@ Watch UI reference Video
 <br/>
 - Start up the app using `npm start`
 <br/>
-- Download dependencies by running `npm install`
 
 </details>
