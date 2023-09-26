@@ -13,9 +13,13 @@ Watch UI reference Video
 <details>
 <summary>Click to view</summary>
 - run this npm install react-input-otp
+<br/>
 - run this npm install react react-dom
+<br/>
 - Download dependencies by running `npm install`
+<br/>
 - Start up the app using `npm start`
+<br/>
 - Download dependencies by running `npm install`
 
 </details>
